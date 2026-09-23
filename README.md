@@ -90,3 +90,7 @@ The button uses LibDBIcon when available, with a standalone fallback otherwise.
 `ForeverHelper.ReadData()` returns current profile references as `tomtom`,
 `restedXP`, `restedXPTomTom`, plus `guide` and `settings`. Treat these live
 references as read-only. Saved backups use independent copies.
+
+## License
+
+Forever Helper is licensed under the [MIT License](LICENSE).

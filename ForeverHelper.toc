@@ -1,5 +1,6 @@
 ## Interface: 16001
 ## Title: Forever Helper
+## Author: HerrHaseGermany
 ## Notes: Quality-of-life setup for WoW Forever Beta.
 ## Version: 1.0.0
 ## OptionalDeps: TomTom, RXPGuides, RestedXP-TomTom
