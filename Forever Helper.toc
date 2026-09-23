@@ -1,0 +1,13 @@
+## Interface: 16001
+## Title: Forever Helper
+## Notes: Quality-of-life helpers for WoW Forever Beta.
+## Version: 1.0.0
+## OptionalDeps: TomTom, RXPGuides, RestedXP-TomTom
+
+## SavedVariables: ForeverHelperAccountDB
+## SavedVariablesPerCharacter: ForeverHelperDB
+
+Config.lua
+ForeverHelper.lua
+Backup.lua
+Minimap.lua
