@@ -1,0 +1,13 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Git archive allowlist: exclude new files until their runtime role is reviewed.
+# Keep this list in sync with every client TOC, XML include and dynamic resource.
+* export-ignore
+/Backup.lua -export-ignore
+/Config.lua -export-ignore
+"/Forever Helper.toc" -export-ignore
+/ForeverHelper.lua -export-ignore
+/ForeverHelper.toc -export-ignore
+/LICENSE -export-ignore
+/Minimap.lua -export-ignore
